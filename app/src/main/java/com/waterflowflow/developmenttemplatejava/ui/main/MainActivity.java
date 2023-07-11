@@ -1,8 +1,10 @@
-package com.waterflowflow.developmenttemplatejava;
+package com.waterflowflow.developmenttemplatejava.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.waterflowflow.developmenttemplatejava.R;
 
 public class MainActivity extends AppCompatActivity {
 
